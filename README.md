@@ -20,15 +20,21 @@ Return a new dictionary where:
 - Works with negative values
 - Passes all specified test cases
 
-  ### Output
+## Running Tests
 
-- testCompleteWeek passed
-- testMissingDays passed
-- testSingleDay passed
-- testNegativeValues passed
+node Solution.test.js
+
+## Expected output
+
+testCompleteWeek passed
+testMissingDays passed
+testSingleDay passed
+testNegativeValues passed
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/daily-values-aggregator.git
+git clone https://github.com/Shaunak-bit/Vaizle.git
+
+## Navigate to the project folder
+
+cd Vaizle
